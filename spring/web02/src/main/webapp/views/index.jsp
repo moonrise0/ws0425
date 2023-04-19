@@ -14,6 +14,7 @@
 </head>
 <body>
     <h1>안녕하세요</h1>
-    <h1><a href="/nex">NEXT PAGE</a></h1>
+    <h1><a href="/next">NEXT PAGE</a></h1>
+    <h1><a href="/second">SECOND PAGE</a></h1>
 </body>
 </html>
